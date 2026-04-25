@@ -7,7 +7,7 @@ layout: default
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="PacingAnalysis/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
-<img src="<static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 ## The Idea:
 
@@ -50,7 +50,7 @@ The final line graph shows that students find that the class is more interesting
 
 This line graph shows that unless students have a high level of prior experience, they are unlikely to think the class is moving at a faster-than-average pace. 
 
-<img src="sstatic/imgs/exp_understand.png" alt="Graph of Experience and Understanding. "  width="500"/>
+<img src="static/imgs/exp_understand.png" alt="Graph of Experience and Understanding. "  width="500"/>
 
 Our second line graph also shows that higher levels of understanding are related to increased prior experience.
 
