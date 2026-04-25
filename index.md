@@ -6,7 +6,7 @@ layout: default
 # Should the Pacing of COMP110 Increase?
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<PacingAnalysis/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="PacingAnalysis/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 <img src="<static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 ## The Idea:
@@ -20,27 +20,48 @@ Analysis was performed that compared the variable "pace" (rated 1-7 on a scale o
 ## The Analysis:
 
 ### Note Taking as it relates to Pacing Perspective:
+<img src="static/imgs/pace_notes_bar.png" alt="Graph of Notes and Pace (bar). "  width="500"/>
+
 The first bar graph shows that regardless of how much students take notes in class, they feel that the pacing of the class is mostly moderate, though there is a slight positive relationship.
 
+<img src="static/imgs/pace_notes_line.png" alt="Graph of Notes and Pace (line). "  width="500"/>
+
 The line graph shows that the people who take more notes are the ones who feel that the class is paced faster, however, there is only about a one point difference pacing persepctive within the range of note-taking.
+
+<img src="static/imgs/pace_notes_understanding.png" alt="Graphs of Note Taking and Pace, sorted by Understanding. "  width="500"/>
 
 The series of line graphs that make up the third visual representation of this section add in an additional factor: understanding. These graphs show a similar minimal trend in pacing perspective across note-taking lines, but they reveal that generally, those with a greater level of understanding feel that the pace of COMP110 is moving more slowly.
 
 ### Understanding and Interest as they relates to Pacing Perspective
+<img src="static/imgs/pace_under.png" alt="Graph of Pace and Understanding. "  width="500"/>
+
 The first bar graph shows that generally, a greater sense of understanding is correlated with a sense that the class is moving at a slower pace.
 
+<img src="static/imgs/pace_interest.png" alt="Graph of Interest and Pace. "  width="500"/>
+
 The second bar graph shows that there isn't a strong relationship between pacing perspective and how interesting students find the class to be.
+
+<img src="static/imgs/pace_interest_understand.png" alt="Graph of Understanding, Interest, and Pace. "  width="500"/>
 
 The final line graph shows that students find that the class is more interesting when they understand it better. It also shows us that the students who understand the class better feel that it is moving too slowly, while the students with lower levels of understanding feel that it is moving too quickly.
 
 ### Pacing Perspective as it relates to Prior Experience
+<img src="static/imgs/pacebyexp.png" alt="Graph of Experience and Pace. "  width="500"/>
+
 This line graph shows that unless students have a high level of prior experience, they are unlikely to think the class is moving at a faster-than-average pace. 
+
+<img src="sstatic/imgs/exp_understand.png" alt="Graph of Experience and Understanding. "  width="500"/>
+
 Our second line graph also shows that higher levels of understanding are related to increased prior experience.
 
-### Pace Rating Frequencies
+### Pace Rating Counts
+<img src="static/imgs/pace_count.png" alt="Graph of Counts of Pace Ratings. "  width="500"/>
+
 The graph below shows that most people feel that the pacing of the class is average or slightly faster than average.
 
 ### Prior Experience
+<img src="static/imgs/exp_count.png" alt="Graph of Counts of Prior Experience. "  width="500"/>
+
 The graph below shows that most people have six months or less of prior programming experience.
 
 
