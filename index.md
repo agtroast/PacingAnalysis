@@ -6,7 +6,6 @@ layout: default
 # Should the Pacing of COMP110 Increase?
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="PacingAnalysis/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 <img src="static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 ## The Idea:
@@ -48,7 +47,7 @@ The final line graph shows that students find that the class is more interesting
 ### Pacing Perspective as it relates to Prior Experience
 <img src="static/imgs/pacebyexp.png" alt="Graph of Experience and Pace. "  width="500"/>
 
-This line graph shows that unless students have a high level of prior experience, they are unlikely to think the class is moving at a faster-than-average pace. 
+This line graph shows that, unless students have a high level of prior experience, they are unlikely to think the class is moving at a faster-than-average pace. 
 
 <img src="static/imgs/exp_understand.png" alt="Graph of Experience and Understanding. "  width="500"/>
 
@@ -57,12 +56,12 @@ Our second line graph also shows that higher levels of understanding are related
 ### Pace Rating Counts
 <img src="static/imgs/pace_count.png" alt="Graph of Counts of Pace Ratings. "  width="500"/>
 
-The graph below shows that most people feel that the pacing of the class is average or slightly faster than average.
+The graph above shows that most people feel that the pacing of the class is average or slightly faster than average.
 
 ### Prior Experience
 <img src="static/imgs/exp_count.png" alt="Graph of Counts of Prior Experience. "  width="500"/>
 
-The graph below shows that most people have six months or less of prior programming experience.
+The graph above shows that most people have six months or less of prior programming experience.
 
 
 ## The Conclusion:
